@@ -1,0 +1,14 @@
+.zagolovok {
+    color:aqua;
+    font-size:40px;
+    transform:rotate(2deg);
+}
+.zagolovok2 {
+    color:rgb(255, 0, 43);
+    font-size:40px;
+    transform:rotate(2deg);
+}
+span {
+    color:blue !important;
+}
+
